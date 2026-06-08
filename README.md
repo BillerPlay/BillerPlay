@@ -77,10 +77,6 @@ Java • Spring Boot • MySQL • JPA • Spring Security
 
 🏅 Honor Roll — Top 5% Worldwide on the American Mathematics Competition 8 (AMC 8)
 
-💻 Developed multiple backend applications using Java and Spring Boot
-
-🎓 Graduate of Code Academy
-
 ---
 
 ## 🎯 Current Focus
